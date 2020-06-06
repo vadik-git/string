@@ -1,0 +1,117 @@
+﻿  Source.cpp
+c:\users\vadim\source\repos\mystring\mystring\source.cpp(4): error C2059: синтаксическая ошибка: using namespace
+c:\users\vadim\source\repos\mystring\mystring\source.cpp(4): error C2238: непредвиденные лексемы перед ";"
+c:\users\vadim\source\repos\mystring\mystring\string.h(7): fatal error C1075: "{": не найдена несоответствующая лексема
+  string.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\concurrencysal.h(22): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vadefs.h(18): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vadefs.h(128): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vadefs.h(129): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime.h(83): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(13): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(13): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_new_debug.h(13): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_new_debug.h(13): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\crtdbg.h(15): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\crtdbg.h(15): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\yvals.h(132): warning C4384: директиву #pragma "detect_mismatch" следует использовать только в глобальной области
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\yvals.h(136): warning C4384: директиву #pragma "detect_mismatch" следует использовать только в глобальной области
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\yvals.h(147): warning C4384: директиву #pragma "detect_mismatch" следует использовать только в глобальной области
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\yvals.h(332): error C2059: синтаксическая ошибка: namespace
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\yvals.h(332): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\limits.h(13): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h(13): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(14): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_search.h(16): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(13): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(18): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(14): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(14): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\cstdlib(34): error C2059: синтаксическая ошибка: namespace
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\cstdlib(34): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtr1common(15): error C2059: синтаксическая ошибка: namespace
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtr1common(15): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(19): error C2059: синтаксическая ошибка: namespace
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C2039: _Common_float_type_t: не является членом "std"
+  c:\users\vadim\source\repos\mystring\mystring\predefined c++ types (compiler internal)(256): note:  см. объявление "std"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C7525: Для встроенных переменных требуется по меньшей мере уровень "/std:c++17"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(69): error C2059: синтаксическая ошибка: <
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(70): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(76): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(76): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(76): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(77): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(77): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(78): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(78): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2039: _Common_float_type_t: не является членом "std"
+  c:\users\vadim\source\repos\mystring\mystring\predefined c++ types (compiler internal)(256): note:  см. объявление "std"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C7525: Для встроенных переменных требуется по меньшей мере уровень "/std:c++17"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2059: синтаксическая ошибка: <
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(79): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(80): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(80): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(80): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(81): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(81): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(82): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(82): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(83): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(83): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(85): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(85): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(87): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(87): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2039: _Common_float_type_t: не является членом "std"
+  c:\users\vadim\source\repos\mystring\mystring\predefined c++ types (compiler internal)(256): note:  см. объявление "std"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C7525: Для встроенных переменных требуется по меньшей мере уровень "/std:c++17"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2059: синтаксическая ошибка: <
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(88): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(89): error C2988: неопознанное объявление или определение шаблона
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(89): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(89): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(90): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(90): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(91): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(91): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(92): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(92): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(95): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(95): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(96): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(96): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(97): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(97): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(98): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(98): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(99): error C2059: синтаксическая ошибка: строка
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xtgmath.h(99): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  Создание кода...
